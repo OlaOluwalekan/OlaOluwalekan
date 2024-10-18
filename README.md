@@ -1,12 +1,14 @@
 <p align="center">
 <strong>Hi there 👋 Welcome to My Profile</strong>
+</p>
+
 <p align="center">
 <strong>I'm</strong>
 </p>
 
+<p align="center">
 <a href="https://bellsarena.com">
 <img width="80%" alt="OlaOluwalekan" src="./images/name.gif" /></a>
-
 </p>
 
 <!--
