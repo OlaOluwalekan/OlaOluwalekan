@@ -1,5 +1,8 @@
 <p align="center">
-# Hi there 👋 Welcome to My Profile
+<strong>Hi there 👋 Welcome to My Profile</strong>
+<p align="center">
+<strong>I'm</strong>
+</p>
 
 <a href="https://bellsarena.com">
 <img width="80%" alt="OlaOluwalekan" src="./images/name.gif" /></a>
